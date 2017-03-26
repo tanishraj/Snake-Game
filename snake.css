@@ -1,0 +1,29 @@
+/* Reset All Padding And Margin To 0 */
+*{
+    padding: 0;
+}
+
+body{
+    background: #272525;
+}
+
+td{
+    width: 10px;
+    height: 10px;
+}
+
+.blank{
+    background-color: blank;
+}
+
+.snake{
+    background: #9acd32;
+}
+
+.wall{
+    background: #f00;
+}
+
+.fruit{
+    background: #adff2f;
+}
