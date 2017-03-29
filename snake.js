@@ -115,7 +115,7 @@ function getType(x,y) {
 /**
  * Adding Even Listener
  */
-window.addEventListener("keypress", function key(){
+window.addEventListener("keydown", function key(){
     var key = event.keyCode;
 
     //If Key is W set direction up
